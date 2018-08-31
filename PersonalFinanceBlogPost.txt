@@ -1,0 +1,22 @@
+SPD 1.1 Blog Post: Allowing people to take back full control of their personal finance.
+Industry Selection:
+Personal Finance is an underrated topic in our day to day basis. People don't often concern themselves too much with how keep track of their spening and income. As long as their bank account is not empty, and there aren't any unusal charges on them, people don't look much deeper into where their money goes. So they use apps that show them charges made on their bank accounts and split those charges into categories pre-selected by the app. Sometimes these apps offer options to set a fancy personal saving goals towards a future charge on their account. This can be correlated to the lack of personal finance in our educational system. 
+When people don't have enough money, their first though is to get more money, even though, they get plenty already. Instead, they should look further into how much money they spend, where it goes and find a way to keep track of it. 
+These Personal Finance Assistants apps, only look at bank account statements and their money flow and people often rely soley on that data until they notice that they don't have enough money for a bill or sometimes something as small as a coffee order. Major components that those apps don't take in are: taxes, other newer methods of spending (epay such as Venmo) and even cash spending. They also cannot differenciate your income from maybe a Venmo money deposit into your account. 
+When people notice these shortfallings in the apps, they either move on to keeping track of it on paper or a spreadsheet, with or without the additional use of the assistant app. This is sometimes more productive but just as keeping track of your schedule on multiple to-do lists and multiple calendars, few people have the consistency and time to keep track of it using those methods and so they eventually fail. 
+Solution?
+Making an app that allows people to manually input their income and spending, allow them to categorize them however the user feels appropriate, allow them to have the option to create their own formulas to deduct taxes or create saving goals, and also be able to display the information on a spreadsheet if deemed necessary by the user. How is this any different from just keeping track of it on a spreadsheet, you might ask. It adds simplicity to it all without sacrificing freedom. The app could have a simple 3 button press interface to add a charge once the user has set their preferences within the app, which would be faster than opening a spreadsheet and adding to it and more reliable/simplier than having a notepad on you at all times to keep track of it.
+Why should you care?
+People want to keep more track of their spending with newer business plans finding newer ways to take your money, apps have emerged to help you by keeping track of your finances for you, instead of helping you to keep track of it. Those apps fail when it comes to separating your categories, calculating in your spening and keeping track of only a few ways to spend your money such as keeping track of only your Bank Account or maybe multiple, but when it comes to newer spending options such as Venmo, and even cash, it does not get calculated into those app's formulas. The apps want to automate too much and end up taking away your capability to manually input your spedning and even have an option for your own formulas to calculate your losses due to taxes and financial goals you might want to achieve.
+Why am I excluding Acorns, Coinbase and Robinhood from Personal Finance?
+These apps don't let users monitor their spending, but they allow users to invest and monitor their investments made through the app alone.
+Is there a market for it?
+Pest:
+Political: Little financially literacy taught in High school. Many bill and taxes come in and take people by surprise because of the lack of education.
+Economical: Prople getting poorer and newer business strategies to persuade users to spend their money on them. Growing lower class.
+Sociological: More and more Gurus giving advice, sometimes for their own benefit alone. 
+Technological: E-pay, new payment methods.
+
+
+Competitive Diagram analisys: https://docs.google.com/spreadsheets/d/174G7uQbsqHVMqJ4FbfoD5rEtKXFiT5jOu6E6A02sqQE/edit#gid=0
+Assignment: https://docs.google.com/document/d/1qivWC5VE4bo7A0YYgJ6dgnW1dV61QGIeSXBwfc4kkF0/edit
